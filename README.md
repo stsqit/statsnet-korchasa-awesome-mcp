@@ -5,6 +5,10 @@
 A curated list of awesome Model Context Protocol (MCP) and Model Context Protocol-related software.
 
 
+Read it as a website at [awesome-mcp.korchasa.dev](https://awesome-mcp.korchasa.dev/):
+every project has a page of its own, the weekly issues are archived, and
+[search](https://awesome-mcp.korchasa.dev/search/) looks through the whole list at once.
+
 Table of Contents:
 - [MCP Servers](#mcp-servers)
     - [Databases](#databases) (35)
