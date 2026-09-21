@@ -355,6 +355,7 @@ Table of Contents:
 
 ### Finance & Trading
 
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 - [alpacahq/alpaca-mcp-server](https://github.com/alpacahq/alpaca-mcp-server) (979 Python) - Alpaca MCP Server is an MCP server implementation that enables large language models to interact with Alpaca's trading API using natural language for stock, options, and crypto trading, portfolio management, and real-time market data access.
 - [ariadng/metatrader-mcp-server](https://github.com/ariadng/metatrader-mcp-server) (806 Python) - MetaTrader MCP Server seamlessly connects AI assistants like Claude and ChatGPT to the MetaTrader 5 trading platform, enabling natural language trading and automated financial operations.
 - [financial-datasets/mcp-server](https://github.com/financial-datasets/mcp-server) (2299 Python) - An MCP server that enables AI assistants to access comprehensive stock market and cryptocurrency data from Financial Datasets via the Model Context Protocol interface.
